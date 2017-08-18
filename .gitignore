@@ -1,0 +1,6 @@
+NaturePaperDataUpl/
+data.zip
+figs/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/

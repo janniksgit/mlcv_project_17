@@ -1,0 +1,16 @@
+iTrain Random Forest1 with 184 features per edge
+OOB SCORE 1 0.982603479304
+Predict weights from Random Forest with 184 features per edge
+Predict weights from Random Forest with 184 features per edge
+Predict weights from Random Forest with 184 features per edge
+Predict weights from Random Forest with 184 features per edge
+Predict weights from Random Forest with 184 features per edge
+Train Random Forest2 with 191 features per edge
+OOB SCORE 2 0.987128972945
+Predict weights from Random Forest with 191 features per edge
+Predict weights from Random Forest with 191 features per edge
+Predict weights from Random Forest with 191 features per edge
+Predict weights from Random Forest with 191 features per edge
+Predict weights from Random Forest with 191 features per edge
+0.957599913876 0.989772910455
+0.957458686075 0.989855106698
